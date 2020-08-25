@@ -18,22 +18,22 @@ id: 1
 
 <exercise id="2" title="Getting Started">
 
-Let's ask some questions about the slides. Whats the correct answer?
+What is Differences-in-Differences
 
 <choice>
-<opt text="Answer one">
+<opt text="Not This">
 
 This is not the correct answer.
 
 </opt>
 
-<opt text="Answer two" correct="true">
+<opt text="This" correct="true">
 
 Good job!
 
 </opt>
 
-<opt text="Answer three">
+<opt text="Not This">
 
 This is not correct either.
 

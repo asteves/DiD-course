@@ -30,10 +30,13 @@ Notes: Some more notes go here
 
 ---
 
+# A Brief Video Introduction 
+
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/IpWQlHapifU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 # Let's practice!
 
-Notes: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique
-libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non
-commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat
-semper urna, in accumsan sapien dui ac mi. Pellentesque felis lorem, semper nec
-velit nec, consectetur placerat enim.
+Notes: Guided practice is important. See [Robert Talbert's website](https://rtalbert.org/models-for-the-fall/) for details
+
+---
