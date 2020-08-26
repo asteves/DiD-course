@@ -2,20 +2,7 @@
 
 TODO Replace the non-essential parts of this README
 
-This is a starter repo based on the
-[course framework](https://github.com/ines/spacy-course) I developed for my
-[spaCy course](https://course.spacy.io). The front-end is powered by
-[Gatsby](http://gatsbyjs.org/) and [Reveal.js](https://revealjs.com) and the
-back-end code execution uses [Binder](https://mybinder.org) 💖
-
-_This repo could use some better code examples. Also, if you have experience
-with R, feel free to suggest improvements to the
-[test logic and template](#adding-tests). It all works as expected, but there
-might be ways to make it more elegant._
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ines/courser-starter-r)
-
-[![](https://user-images.githubusercontent.com/13643239/56341448-68fe9380-61b5-11e9-816f-5c71ae71b94f.png)](https://course-starter-r.netlify.com)
+This is a starter repo based on the [course framework](https://github.com/ines/spacy-course) developed by Ines for her [spaCy course](https://course.spacy.io). The front-end is powered by [Gatsby](http://gatsbyjs.org/) and [Reveal.js](https://revealjs.com) and the back-end code execution uses [Binder](https://mybinder.org) 💖
 
 ## ✅ Quickstart
 
@@ -130,8 +117,8 @@ on the order of 5 or 10 minutes or so), since it is installing/compiling
 container by clicking the badge below and looking at the log.
 
 You can view the binder container here:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/asteves/DiD-course/master)
-or at: https://mybinder.org/v2/gh/asteves/DiD-course/master
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/asteves/DiD-course/binder)
+or at: (https://mybinder.org/v2/gh/asteves/DiD-course/binder)
 
 - you can launch an Rstudio instance to test the container by using the "new"
   tab in the top right corner, and selecting 'Rstudio'. This is super helpful if
