@@ -4,36 +4,27 @@ type: slides
 
 # Introduction
 
-Notes: Text at the end of a slide prefixed like this will be displayed as
-speaker notes on the side. Slides can be separated with a divider: ---.
+
+## Welcome to a short self-paced course on differences-in-differences. 
+
+---
+# What is DiD?  
+
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/IpWQlHapifU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+---
+# Why are we using R?
+
+- R is free as in beer and free as in speech
+- The R ecosystem makes executing DiD easier than ever with many great packages
+- The skills developed in R will transfer to other computer languages
 
 ---
 
-# This is a slide
-
-```r
-# Print something
-print("Hello world", quote = FALSE)
-```
-
-```out
-Hello world
-```
-
-- Slides can have code, bullet points, tables and pretty much all other Markdown
-  elements.
-- This is another bullet point.
-
-<img src="profile.jpg" alt="This image is in /static" width="25%">
-
-Notes: Some more notes go here
-
----
 
 # Let's practice!
 
-Notes: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique
-libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non
-commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat
-semper urna, in accumsan sapien dui ac mi. Pellentesque felis lorem, semper nec
-velit nec, consectetur placerat enim.
+Please take the first quiz now!
+
+---

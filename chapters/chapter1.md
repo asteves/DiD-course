@@ -18,22 +18,22 @@ id: 1
 
 <exercise id="2" title="Getting Started">
 
-Let's ask some questions about the slides. Whats the correct answer?
+What is Differences-in-Differences
 
 <choice>
-<opt text="Answer one">
+<opt text="Not This">
 
 This is not the correct answer.
 
 </opt>
 
-<opt text="Answer two" correct="true">
+<opt text="This" correct="true">
 
 Good job!
 
 </opt>
 
-<opt text="Answer three">
+<opt text="Not This">
 
 This is not correct either.
 
@@ -42,11 +42,37 @@ This is not correct either.
 
 </exercise>
 
-<exercise id="3" title="First steps">
+<exercise id="3" title="Getting Started">
 
-This is a code exercise. The content can be formatted in simple Markdown – so
-you can have **bold text**, `code` or [links](https://spacy.io) or lists, like
-the one for the instructions below.
+What is Differences-in-Differences
+
+<choice>
+<opt text="Not This">
+
+This is not the correct answer.
+
+</opt>
+
+<opt text="This" correct="true">
+
+Good job!
+
+</opt>
+
+<opt text="Not This">
+
+This is not correct either.
+
+</opt>
+</choice>
+
+</exercise>
+
+<exercise id="4" title="First steps">
+
+Here is your first code exercise. Fill in the missing code and hit submit to execute. 
+
+Your code may take a little time to run on the server, so please be patient.
 
 - These are instructions and they can have bullet points.
 - The code block below will look for the files `exc_01_03`, `solution_01_03` and
