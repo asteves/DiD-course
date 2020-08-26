@@ -144,15 +144,6 @@ pets <- read.csv("data/pets.csv")
 Remember, if you need to add a dataset to the repo, it needs to be done in the
 `binder` branch into the `data/` folder.
 
-### Using `decampr` to transfer your DataCamp repository
-
-If you would like to transfer your courses from DataCamp, there is a package
-made for that: [`decampr`](http://github.com/laderast/decampr). It will scan
-your repository and attempt to extract exercise instructions, quizzes, exercise
-code, and solutions and write them to the appropriate directory for your
-project. For more info, please check out the `decampr` repo:
-http://github.com/laderast/decampr
-
 ## 🎨 Customization
 
 The app separates its source and content – so you usually shouldn't have to dig
