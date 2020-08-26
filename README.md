@@ -1,5 +1,7 @@
 # Online course starter: R
 
+TODO Replace the non-essential parts of this README
+
 This is a starter repo based on the
 [course framework](https://github.com/ines/spacy-course) I developed for my
 [spaCy course](https://course.spacy.io). The front-end is powered by
