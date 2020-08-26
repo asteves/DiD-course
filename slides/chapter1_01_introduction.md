@@ -4,7 +4,8 @@ type: slides
 
 # Introduction
 
-Welcome to a short self-paced course on differences-in-differences. 
+
+## Welcome to a short self-paced course on differences-in-differences. 
 
 ---
 # What is DiD?  
